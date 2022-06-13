@@ -3,7 +3,8 @@
     "rootNamespace": "Game.Editor",
     "references": [
         "Game.Runtime",
-        "UnityEditor.UI"
+        "UnityEditor.UI",
+        "Unity.2D.Sprite.Editor"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
